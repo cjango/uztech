@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1c952c78-a8d9-4046-844b-af77bbbd2a78" name="yuzhan">
+        <fileTransfer rootFolder="/home/wwwroot/modules-dev" accessType="SFTP" host="115.29.111.28" port="22" sshConfigId="88df07c3-a2a9-46e7-a022-824687ee3478" sshConfig="域展科技-server">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

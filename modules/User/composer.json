@@ -1,0 +1,25 @@
+{
+    "name": "jasonc/user",
+    "description": "",
+    "authors": [
+        {
+            "name": "Jason.Chen",
+            "email": "chenjxlg@163.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\User\\Providers\\UserServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\User\\": ""
+        }
+    }
+}
